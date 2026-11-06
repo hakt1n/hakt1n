@@ -1,6 +1,6 @@
 # Hi 👋, I'm Haktan
 
-### Full-Stack & Mobile Developer
+### Full-Stack Developer
 
 ```javascript
 const haktan = {
